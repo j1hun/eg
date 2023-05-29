@@ -1,2 +1,2 @@
 # Peak6 - Evil Geniuses Data Science 
-### Note: change file directory path if running locally
+### Note: change file path if running locally
